@@ -1,0 +1,8 @@
+name: dk-python-playground
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - pip
+  - zstandard
+  - ipykernel
